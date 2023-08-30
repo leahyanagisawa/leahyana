@@ -30,7 +30,7 @@ JavaScript being a totally new language to me was very scary. At first, I kind o
 ## Navigating the Unknown
 
 Coming from a very shaky Python background, I was and still kind of am a little uncertain about everything. I went from using “int ()” and “float ()” to things like var, let, or const. All these transitions are literally like learning a new language to me! I was unprepared to say the least. One of the most famous lines I see frequently in code is:
-for (let i=0; i<str.length; i++) 
+for (let i=0; i<str.length; i++). 
 I could not figure this out for the life of me. However, after a simple google search and some more practice, it made sense. “i=0” means you’re starting at zero, computer counts starting at zero (I have made the mistake of starting at one more than I’d like to admit). “i<str.length” with str.length being replaceable by any function or number, means the end. In the case of the ‘str.length’, it means you end at the length of the string so that your code doesn’t keep going on for infinity. “i++” simply means you want to go through the string or function, whatever it may be, one by one or number by number. Learning to navigate has been difficult, but using resources to better understand it is not something to be embarrassed about.
 
 

@@ -11,7 +11,6 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
 
 Introduction
 Coming into ICS 314, I had very little coding experience and knowledge. I was only taught Python in ICS 111 and 211 and it does not translate too well. JavaScript was a whole other language, and I had no clue how to do anything. The last time I took an ICS course where we were coding anything was about four semesters ago so to say I was rusty on coding in general was an understatement. Going through the “Basic JavaScript” on FreeCodeCamp was a struggle for me, and I probably still have some areas I need to review even after I’ve completed it.

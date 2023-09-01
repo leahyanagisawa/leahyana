@@ -23,5 +23,5 @@ Throughout my time in Girl Scouts, I have built confidence in my leadership and 
 
 
 
-To learn more about Girl Scouts and take action projects, click [here] (https://www.girlscouts.org/en/cookies/how-to-buy-cookies/cookies-frequently-asked-questions.html#:~:text=The%20net%20proceeds%20from%20Girl,impactful%20girl%2Dled%20community%20projects).
+To learn more about Girl Scouts and take action projects, click [here](https://www.girlscouts.org/en/cookies/how-to-buy-cookies/cookies-frequently-asked-questions.html#:~:text=The%20net%20proceeds%20from%20Girl,impactful%20girl%2Dled%20community%20projects).
 

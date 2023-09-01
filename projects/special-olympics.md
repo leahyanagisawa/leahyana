@@ -10,8 +10,9 @@ labels:
 summary: "My team and I volunteered at the Special Olympics Hawaii Swimming event, held at UH Manoa."
 ---
 
-<div>
-  
+
+<div class="text-center p-4">
+  <img width="600px" src="../img/specoly2.JPG" class="img" >
 </div>
   
 

@@ -9,14 +9,12 @@ labels:
   - Software Engineering
 ---
 
-<div>
-  <img width="600px" class="rounded float-start pe-4" src="../img/softeng.jpeg">
-
+<div class="text-center p-4">
+  <img width="600px" src="../img/softeng.jpeg" class="img" >
 </div>
 
 
-Going through high school, I had no clue what I wanted to major in when I got to college. I had a hobby of photography, but I knew it wouldn't be a sustainable career as the market for photographers is not great at the moment. I thought about just doing what everyone I talked to was doing and just go into business, but I don't know. Something about doing someone else's taxes or creating a company's payroll didn't quite appeal to me. I really just did not have any direction. However, during my spring break of senior year in high school, I was invited to join an online boot camp to learn about cybersecurity. In this bootcamp, I, alongside many other high school girls, learned about cybersecurity, the implications and importance in our lives, learned a bit about cryptogrophy, and some basic coding to generate a random password. This experience was intriguing to me so when it was finished, I thought
-* why not just go for computer science?
+Going through high school, I had no clue what I wanted to major in when I got to college. I had a hobby of photography, but I knew it wouldn't be a sustainable career as the market for photographers is not great at the moment. I thought about just doing what everyone I talked to was doing and just go into business, but I don't know. Something about doing someone else's taxes or creating a company's payroll didn't quite appeal to me. I really just did not have any direction. However, during my spring break of senior year in high school, I was invited to join an online boot camp to learn about cybersecurity. In this bootcamp, I, alongside many other high school girls, learned about cybersecurity, the implications and importance in our lives, learned a bit about cryptogrophy, and some basic coding to generate a random password. This experience was intriguing to me so when it was finished, I thought: why not just go for computer science?
 
 ## What am I doing here?
 

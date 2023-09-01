@@ -10,7 +10,9 @@ labels:
 summary: "My team and I volunteered at the Special Olympics Hawaii Swimming event, held at UH Manoa."
 ---
 
-<div class="text-center p-4">
+<div>
+  
+</div>
   
 
 Special Olympics Hawaii is an organization to support individuals with disabilites in their passion to be athletes. These events are held to showcase talent even in the disabled communities. Being a part of something like this is so rewarding as helping those who have faced a lot of odds in their lives succeed at something they enjoy is a great thing to celebrate. It's organizations like these that allows these special individuals to build up the confidence to embrace their differences and come together to support one another in their talents and passion. 

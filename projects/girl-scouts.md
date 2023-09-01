@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/girl-scouts:angeltree.JPG
+image: img/girlscouts-angeltree.JPG
 title: "Girl Scouts Take Action Projects"
 date: 2023-08-31
 published: true

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/image_50458625.JPG
 title: "Girl Scouts Take Action Projects"
 date: 2023-08-31
 published: true

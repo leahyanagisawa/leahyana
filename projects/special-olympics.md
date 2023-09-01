@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/specoly.jpeg
 title: "Special Olympics"
-date: 2023-08-31
+date: 2023-06-10
 published: true
 labels:
   - Volunteer Work

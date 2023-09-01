@@ -42,25 +42,28 @@
   ],
   "work": [
     {
-      "company": "",
-      "position": "",
+      "company": "American Eagle Outfitters",
+      "position": "Sales Associate",
       "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
+      "startDate": "2021-11-01",
+      "endDate": "2022-11-20",
+      "summary": "Interact with customers and provide a good atmosphere for the store.",
+      "highlights": [ 
+        "Customer Service",
+        "Cashier",
+        "Cash flow knowledge"
       ]
     },
     {
-      "company": "",
-      "position": "",
+      "company": "YMCA",
+      "position": "Group Leader",
       "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "2021-07-01",
+      "endDate": "2022-02-18",
+      "summary": "Lead elementary students in after school activities.",
       "highlights": [
-        ""
+        "Childcare",
+        "Leadership"
       ]
     }
   ],
@@ -76,17 +79,6 @@
         "STEM fairs"
       ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    }
   ],
   "awards": [
     {
@@ -95,12 +87,7 @@
       "awarder": "Mililani High School",
       "summary": "Valedictorian achievement awarded to students who graduated with an overall GPA above a 4.0"
     },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    }
+    
   ],
   "references": [
     {

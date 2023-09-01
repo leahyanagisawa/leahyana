@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/specoly.jpg
 title: "Special Olympics"
 date: 2023-08-31
 published: true
@@ -11,10 +11,7 @@ summary: "My team and I volunteered at the Special Olympics Hawaii Swimming even
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
+  
 
 Special Olympics Hawaii is an organization to support individuals with disabilites in their passion to be athletes. These events are held to showcase talent even in the disabled communities. Being a part of something like this is so rewarding as helping those who have faced a lot of odds in their lives succeed at something they enjoy is a great thing to celebrate. It's organizations like these that allows these special individuals to build up the confidence to embrace their differences and come together to support one another in their talents and passion. 
 

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/specoly.jpg
+image: img/specoly.jpeg
 title: "Special Olympics"
 date: 2023-08-31
 published: true

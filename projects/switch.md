@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/SWITCHday.jpg
 title: "SWITCH STEM Event"
-date: 2023-08-31
+date: 2023-04-29
 published: true
 labels:
   - STEM Education

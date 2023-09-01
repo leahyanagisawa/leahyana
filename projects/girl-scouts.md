@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/girlscouts-angeltree.JPG
 title: "Girl Scouts Community Service Projects"
-date: 2022
+date: 2019-2023
 published: true
 labels:
   - Volunteer Work

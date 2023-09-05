@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Flawed at WODs"
+title: "WOD an Experience"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-04
 published: true
@@ -10,7 +10,10 @@ labels:
   - Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<div class="text-center p-4">
+  <img width="600px" src="../img/javascript.JPG" class="img" >
+</div>
+
 
 *WODs are in class assesments that determine if the student has learned the material taught in class that week, it is graded as a pass or fail format.*
 

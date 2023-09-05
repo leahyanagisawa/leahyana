@@ -11,7 +11,7 @@ labels:
 ---
 
 <div class="text-center p-4">
-  <img width="600px" src="../img/javascript.JPG" class="img" >
+  <img width="600px" src="../img/wodexp.PNG" class="img" >
 </div>
 
 

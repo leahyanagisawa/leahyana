@@ -7,7 +7,6 @@ date: 2023-09-04
 published: true
 labels:
   - WOD
-  - Software Engineering
 ---
 
 <div class="text-center p-4">

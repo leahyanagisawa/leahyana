@@ -10,7 +10,7 @@ labels:
 ---
 
 <div class="text-center p-4">
-  <img width="600px" src="../img/softeng.jpeg" class="img" >
+  <img width="600px" src="../img/smartq.jpg" class="img" >
 </div>
 
 

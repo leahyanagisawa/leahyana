@@ -9,9 +9,9 @@ labels:
   - Software Engineering
 ---
 
-<div class="text-center p-4">
-  <img width="600px" src="../img/javascript.JPG" class="img" >
-</div>
+  
+  <img width="200px" class="rounded float-start pe-4" src="../img/javascript.JPG">
+
 
 
 ## Introduction

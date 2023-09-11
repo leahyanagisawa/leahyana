@@ -9,9 +9,9 @@ labels:
   - WOD
 ---
 
-<div class="text-center p-4">
-  <img width="600px" src="../img/wodexp.jpg" class="img" >
-</div>
+
+  <img width="200px" class="rounded float-start pe-4" src="../img/wodexp.jpg">
+
 
 
 *WODs are in class assessments that determine if the student has learned the material taught in class that week, it is graded as a pass or fail format.*

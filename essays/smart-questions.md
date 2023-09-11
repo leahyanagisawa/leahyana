@@ -9,9 +9,10 @@ labels:
   - Software Engineering
 ---
 
-<div class="text-center p-4">
-  <img width="600px" src="../img/smartq.jpg" class="img" >
-</div>
+
+  
+<img width="200px" class="rounded float-start pe-4" src="../img/smartq.jpg">
+
 
 
 *Spoiler alert: there is such a thing as a stupid question!*
@@ -26,9 +27,9 @@ A smart question is one that leaves no room for any ambiguity. According to the 
 
 ## The smart way to ask a question
 
-Smart questions should be one that is specific to a problem, asking for better understanding. Most smart questions will contain a lot of context to not confuse any potential repliers with their issue. 
 *Stack Overflow is an internet site in which many people can ask and/or answer questions, built specifically for those creating open-source projects. On this site, there are a multitude of questions, both smart and stupid, that are asked, and as you can tell, some are not answered for obvious reasons. When asking smart questions on a site like this, it is imperative to keep in mind the audience is far more experienced people of the computing and programming world. With this in mind, there should be a level of professionalism in the question and body of the question so that no follow-up questions will be required, and it can be answered rather quickly.* 
-An example of a smart question asked on Stack Overflow is linked [here](https://stackoverflow.com/questions/77048113/webpackdevserver-with-max-old-space-size-32000-flag-sometimes-consumes-more). In this particular question, this person is asking how to troubleshoot an issue regarding why an app keeps crashing if they are also running other applications in the background. The ask was how to have the program ask to swap space rather than automatically crashing if there is a memory shortage on the device. This is a great example of a smart question because it shows they have knowledge on what they are asking about, not just asking for a short answer. They have provided their script and even a detailed description of how their device is operating in terms of storage as well as system information. From the support code to the context of available RAM on their hardware, it is clear they understand what they're talking about and only included relevant pieces of information in order to help solve their issue.
+
+Smart questions should be one that is specific to a problem, asking for better understanding. Most smart questions will contain a lot of context to not confuse any potential repliers with their issue. An example of a smart question asked on Stack Overflow is linked [here](https://stackoverflow.com/questions/77048113/webpackdevserver-with-max-old-space-size-32000-flag-sometimes-consumes-more). In this particular question, this person is asking how to troubleshoot an issue regarding why an app keeps crashing if they are also running other applications in the background. The ask was how to have the program ask to swap space rather than automatically crashing if there is a memory shortage on the device. This is a great example of a smart question because it shows they have knowledge on what they are asking about, not just asking for a short answer. They have provided their script and even a detailed description of how their device is operating in terms of storage as well as system information. From the support code to the context of available RAM on their hardware, it is clear they understand what they're talking about and only included relevant pieces of information in order to help solve their issue.
 
 
 ## The not so smart way to ask a question

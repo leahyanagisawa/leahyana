@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Coding Standards: Are They Painful, Useful, or Both?"
+title: "Coding Standards: Painful, Useful, or Both?"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-20
 published: true

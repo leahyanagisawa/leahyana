@@ -11,7 +11,7 @@ labels:
   - Semantic UI
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/harbin-real.png"> <img width="200px" class="rounded float-start pe-4" src="../img/harbin-fake.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/harbin-real.png"> <img width="400px" class="rounded float-start pe-4" src="../img/harbin-fake.png">
 
 *Difficulty: a thing that is hard to accomplish, deal with, or understand.*
 

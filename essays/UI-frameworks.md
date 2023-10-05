@@ -32,10 +32,12 @@ The one thing that really bothered me was the website I chose used an Adobe font
 
 ## The final product
 
-So I guess now is the part where I show you what I recreated: 
+So I guess now is the part where I show you what I recreated. I also wanted to include the actual website link because it is an amazing organization that rescues dogs from Chinese meat shops and puts them in good homes to live better lives full of love [here](https://www.harbinshs.com). Who doesn't love a wholesome organization that helps dogs?
+
+
 <img width="400px" class="rounded float-start pe-4" src="../img/harbin-real.png"> <img width="400px" class="rounded float-start pe-4" src="../img/harbin-fake.png">
 
-I want to include the actual website link because it is an amazing organization that rescues dogs from Chinese meat shops and puts them in good homes to live better lives full of love here< 
+I want to include the actual website link because it is an amazing organization that rescues dogs from Chinese meat shops and puts them in good homes to live better lives full of love [here](https://www.harbinshs.com)
 Here it is. It is not my favorite, but I had a few successes. I got the picture at the top to have text in it and even a side navigation tab that definitely does (not) work. I still consider it a success, regardless of the font being off, because I learned a lot about creating containers and paddings to make the text not go all the way to the edge and having a nearly perfect text size replication. I am overall pretty impressed with what I was able to do, and I know if I knew more of the ins and outs of Bootstrap (and $50 to pay Adobe for their fonts) that I would be able to perfect it to look identical.
 
 ## Concluding thoughts

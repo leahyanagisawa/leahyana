@@ -37,8 +37,8 @@ So I guess now is the part where I show you what I recreated. I also wanted to i
 
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/harbin-real.png" class="img" >
-  <img width="400px" src="../img/harbin-fake.png" class="img" >
+  <img width="600px" src="../img/harbin-real.png" class="img" >
+  <img width="600px" src="../img/harbin-fake.png" class="img" >
 </div>
 
 

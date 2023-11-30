@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Design Patterns... but not for clothes
+title: "Design Patterns... but not for clothes"
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-29
 published: true

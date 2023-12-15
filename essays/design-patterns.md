@@ -9,8 +9,9 @@ labels:
   - Software Engineering
 ---
 
-
+<div class="text-center p-4">
 <img width="200px" class="rounded float-start pe-4" src="../img/despat1.JPG"> <img width="200px" class="rounded float-start pe-4" src="../img/despat2.JPG">
+</div>
 
 
 

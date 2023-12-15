@@ -7,6 +7,9 @@ date: 2023-11-20
 published: ture
 labels:
   - Software Engineering
+  - AI
+  - Generative AI
+
 ---
 
 

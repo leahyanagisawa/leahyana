@@ -21,7 +21,7 @@ It is very easy to be lazy and say: well it doesn't matter how I got here, as lo
 
 ## ESLint 
 
-In ICS 314, we are being taught how to think like a software engineer. Finding the most efficent, reusable code is always the goal. How do coding standards play into this? Well, it's quite obvious: you can't have good, efficient code if you don't adhere to coding standards. In this class, we are currently using Javascrip for our coding language. There are many different standards for various different coding languages, but we are using ESLint with IntelliJ for our coding standards. 
+In ICS 314, we are being taught how to think like a software engineer. Finding the most efficient, reusable code is always the goal. How do coding standards play into this? Well, it's quite obvious: you can't have good, efficient code if you don't adhere to coding standards. In this class, we are currently using Javascript for our coding language. There are many different standards for various different coding languages, but we are using ESLint with IntelliJ for our coding standards. 
 
 ESLint is a linter that aids by checking Javascript code for a number of issues such as syntax errors, code style violations, potential bugs, and formatting issues. My overall experience using ESLint has been pretty positive. I appreciate how it shows you any errors before you run your code. It helps in saving time between running, troubleshooting, rerunning, and more troubleshooting until the problem is found and solved. When ESLint finds an error in the code, it will highlight and a warning will appear to let you know you have an error in your code. 
 
@@ -31,7 +31,7 @@ The most benefits to adhering to coding standards is when working with other peo
 
 ## How Coding Standards Can Work For You
 
-As someone who is new to coding (especially in Javascript), it was so easy to brush off my mistakes with excuses like "well I'll get it next time, as long as the code worked." With ESLint, I was able to see and correct my errors along the way. Repeating this process with many assignemnts along the way has helped me to really learn from my mistakes. My bad habits of not closing a loop or even just forgetting a "_." before an underscore function have become a less frequent occurance since learning to fix along the way with the help of ESLint. 
+As someone who is new to coding (especially in Javascript), it was so easy to brush off my mistakes with excuses like "well I'll get it next time, as long as the code worked." With ESLint, I was able to see and correct my errors along the way. Repeating this process with many assignments along the way has helped me to really learn from my mistakes. My bad habits of not closing a loop or even just forgetting a "_." before an underscore function have become a less frequent occurrence since learning to fix along the way with the help of ESLint. 
 
 ## Conclusion
 

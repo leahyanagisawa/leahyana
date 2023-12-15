@@ -15,9 +15,9 @@ labels:
 
 
 
-In my experience with coding, not once did I think "hmm, nice design pattern used here." I usually associate the phrase design patterns with clothing: plaid, stripes, dots, floral, etc. Up until this semester, I didnʻt realize what design patterns were for someone in Computer Science, but I quickly learned how important they are. Every project Iʻve done in this class has used some type of design pattern and that is no surprise. A design pattern must be followed carefully just like the patterns in a clothing piece or else it won't work; it isn't a pattern.
+In my experience with coding, not once did I think "hmm, nice design pattern used here." I usually associate the phrase design patterns with clothing: plaid, stripes, dots, floral, etc. Up until this semester, I did not realize what design patterns were for someone in Computer Science, but I quickly learned how important they are. Every project I have done in this class has used some type of design pattern and that is no surprise. A design pattern must be followed carefully just like the patterns in a clothing piece or else it won't work; it isn't a pattern.
 
-## So.. what are desing patterns?
+## So.. what are design patterns?
 
 Although patterns can be very intricate, let me break it down for you just a bit.
 

@@ -10,6 +10,9 @@ labels:
 ---
 
 
+<img width="200px" class="rounded float-start pe-4" src="../img/ai.webp">
+
+
 
 ## Introduction
 

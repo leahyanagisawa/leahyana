@@ -12,6 +12,9 @@ labels:
 ---
 
 
+<img width="200px" class="rounded float-start pe-4" src="../img/uifram.JPG>
+
+
 
 Who knew there could be art in Software Engineering? Not me! Majoring in computer science, I thought it was all about coding and did not anticipate any art to be incorporated into the mix. After creating simple websites and even replicating much more complex websites, I discovered the art within software engineering. Of course, I was not able to just write code from scratch. I had some help from UI Frameworks. If you ever right click on a website page and hit inspect, you'll understand why I needed that help as merely a student in an entry level software engineering course. 
 

@@ -10,8 +10,7 @@ labels:
 ---
 
 
-<img width="200px" class="rounded float-start pe-4" src="../img/despat1.JPG">
-<img width="200px" class="rounded float-start pe-4" src="../img/despat2.JPG">
+<img width="200px" class="rounded float-start pe-4" src="../img/despat1.JPG"> <img width="200px" class="rounded float-start pe-4" src="../img/despat2.JPG">
 
 
 

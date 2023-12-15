@@ -4,7 +4,7 @@ type: project
 image: img/specoly.jpeg
 title: "Special Olympics"
 date: 2023-06-10
-published: tru
+published: false
 labels:
   - Volunteer Work
 summary: "My team and I volunteered at the Special Olympics Hawaii Swimming event, held at UH Manoa."

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/hapatman-ss.png
+image: img/ham.png
 title: "Happening At Manoa - ICS 314 Final"
 date: 2023-12-14
 published: true

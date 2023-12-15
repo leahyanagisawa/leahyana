@@ -10,6 +10,10 @@ labels:
 ---
 
 
+<img width="200px" class="rounded float-start pe-4" src="../img/reflecting.JPG">
+
+
+
 Going into this class, Software Engineering seemed so arbitrary. I thought hmm if I shot high enough maybe I'd be smart enough, but it wasn't anything more than an unobtainable goal I kept in the back of my head. Coming out of this class, I feel like maybe it is something I can do. Software Engineering is difficult, don't get me wrong, but challenges can always be solved if you put the effort to do so. The one thing that discouraged me in the beginning of this semester was seeing how advanced some of my classmates were in their respective interests: some had a few internships over the summer, others had a job lined up for after they graduated, and some just knew more languages than I did. Now that I'm on the other end of it, I know it's a journey. Nobody is upset that you don't know something, they either don't know as well or they've been there before so they know how to treat the situation. ICS 314 overall has been a big learning curve and I'm glad I took it. My three biggest takeaways have to be: UI Frameworks because thank goodness they exist, Coding Standards like ESLint to catch all my errors, and IDPM (Issue Driven Project Management) that helped address all concerns with the scary group project.
 
 ## User Interface Frameworks

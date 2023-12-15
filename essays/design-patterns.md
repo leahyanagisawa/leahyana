@@ -7,6 +7,7 @@ date: 2023-11-29
 published: true
 labels:
   - Software Engineering
+  - Design patterns
 ---
 
 <div class="text-center p-4">

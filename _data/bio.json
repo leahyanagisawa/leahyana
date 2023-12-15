@@ -1,0 +1,138 @@
+{
+  "basics": {
+    "name": "Leah Yanagisawa",
+    "label": "Student",
+    "picture": "https://github.com/leahyanagisawa.png",
+    "email": "leahyana@hawaii.edu",
+    "phone": "",
+    "website": "https://leahyanagisawa.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "leahyanagisawa", "url": "http://github.com/leahyanagisawa" },
+      { "network": "linkedin", "username": "leahyanagisawa", "url": "http://linkedin.com/in/leahyanagisawa" }
+    ]
+  },
+  "interests": [
+    { "name": "Computer Science" },
+    { "name": "Cybersecurity" },
+    { "name": "Photography" },
+    { "name": "Education" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": ["Javascript", "Python", "Java", "C" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Git/GitHub", "Office", "UNIX" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2021-08-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Apple",
+      "position": "Specialist",
+      "website": "",
+      "startDate": "2023-11-04",
+      "endDate": "Present",
+      "summary": "Interact with customers to aid in their purchase and usage of technology products.",
+      "highlights": [ 
+        "Customer Service",
+        "Cashier",
+        "Technology knowledge"
+      ]
+    },
+    {
+      "company": "Hawaii Department of Education",
+      "position": "Substitute Teacher",
+      "website": "",
+      "startDate": "2023-09-08",
+      "endDate": "Present",
+      "summary": "Educate students of primary/secondary years in subjects such as math, science, english, and math in a classroom setting",
+      "highlights": [ 
+        "Education",
+        "Teaching"
+      ]
+    },
+    {
+      "company": "American Eagle Outfitters",
+      "position": "Sales Associate",
+      "website": "",
+      "startDate": "2021-11-01",
+      "endDate": "2022-11-20",
+      "summary": "Interact with customers and provide a good atmosphere for clothing purchases.",
+      "highlights": [ 
+        "Customer Service",
+        "Cashier",
+        "Cash flow knowledge"
+      ]
+    },
+    {
+      "company": "YMCA",
+      "position": "Group Leader",
+      "website": "",
+      "startDate": "2021-07-01",
+      "endDate": "2022-02-18",
+      "summary": "Lead elementary students in after school activities.",
+      "highlights": [
+        "Childcare",
+        "Leadership"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Palama Settlement",
+      "website": "",
+      "position": "Volunteer",
+      "startDate": "2023-12-14",
+      "endDate": "2023-12-14",
+      "summary": "Aid in wrapping and decorating facility for Christmas event hosted by Palama Settlement.",
+      "highlights": [
+        "Volunteer"
+      ]
+    },
+    {
+      "organization": "Girl Scouts of Hawaii",
+      "website": "",
+      "position": "Member",
+      "startDate": "2013-01-01",
+      "endDate": "Present",
+      "summary": "Lead and mentor girls in activities to build confidence and skills.",
+      "highlights": [
+        "STEM fairs"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Valedictorian",
+      "date": "2021-05-16",
+      "awarder": "Mililani High School",
+      "summary": "Valedictorian achievement awarded to students who graduated with an overall GPA above a 4.0"
+    },
+    {
+      "title": "Dean's List",
+      "date": "2022-12-20",
+      "awarder": "University of Hawaii West Oahu",
+      "summary": "Dean's List achievement is awarded to students who completed a semester with a 3.7 or higher"
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}

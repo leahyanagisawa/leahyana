@@ -7,6 +7,7 @@ date: 2023-09-05
 published: true
 labels:
   - Software Engineering
+  - Smart Questions
 ---
 
 

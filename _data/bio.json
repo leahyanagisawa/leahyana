@@ -41,12 +41,26 @@
     }
   ],
   "work": [
+     {
+      "company": "Keiki Coders",
+      "position": "Lead Coding Instructor",
+      "website": "",
+      "startDate": "2024-06-02",
+      "endDate": "2024-07-19",
+      "summary": "Educate students at 'Iolani Schools of primary/secondary years in coding topics such as: Virtual Reality (VR), Cybersecurity, online safety, and computer ettiquite.",
+      "highlights": [ 
+        "Education",
+        "Teaching",
+        "Coding",
+        "Summer School"
+      ]
+    },
     {
       "company": "Apple",
       "position": "Specialist",
       "website": "",
       "startDate": "2023-11-04",
-      "endDate": "Present",
+      "endDate": "2024-04-12",
       "summary": "Interact with customers to aid in their purchase and usage of technology products.",
       "highlights": [ 
         "Customer Service",
@@ -60,7 +74,7 @@
       "website": "",
       "startDate": "2023-09-08",
       "endDate": "Present",
-      "summary": "Educate students of primary/secondary years in subjects such as math, science, english, and math in a classroom setting",
+      "summary": "Educate students of primary/secondary years in subjects such as math, science, english, and social studies in a classroom setting",
       "highlights": [ 
         "Education",
         "Teaching"

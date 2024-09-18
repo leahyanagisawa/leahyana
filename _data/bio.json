@@ -22,7 +22,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": ["Javascript", "Python", "Java", "C" ]
+      "keywords": ["Javascript", "C" ]
     },
     {
       "name": "Toolsets/OS",
@@ -78,31 +78,6 @@
       "highlights": [ 
         "Education",
         "Teaching"
-      ]
-    },
-    {
-      "company": "American Eagle Outfitters",
-      "position": "Sales Associate",
-      "website": "",
-      "startDate": "2021-11-01",
-      "endDate": "2022-11-20",
-      "summary": "Interact with customers and provide a good atmosphere for clothing purchases.",
-      "highlights": [ 
-        "Customer Service",
-        "Cashier",
-        "Cash flow knowledge"
-      ]
-    },
-    {
-      "company": "YMCA",
-      "position": "Group Leader",
-      "website": "",
-      "startDate": "2021-07-01",
-      "endDate": "2022-02-18",
-      "summary": "Lead elementary students in after school activities.",
-      "highlights": [
-        "Childcare",
-        "Leadership"
       ]
     }
   ],
